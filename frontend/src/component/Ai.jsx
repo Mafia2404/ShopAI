@@ -14,7 +14,7 @@ function Ai() {
   let navigate = useNavigate()
   let [activeAi, setActiveAi] = useState(false)
   let openingSound = new Audio(open)
-  let serverUrl = "http://localhost:8000"
+  let serverUrl = "https://shopai-rr1q.onrender.com"
   const { getCurrentUser, userData, setUserData } = useContext(userDataContext);
   const [isGenerating, setIsGenerating] = useState(false);
 
