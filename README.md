@@ -127,5 +127,9 @@ Push to branch (git push origin feature)
 Open a Pull Request
 ```
 ---
+---
+### 👥 Contributors
+<table> <tr> <td align="center"> <a href="https://github.com/Sakshi-1224"> <img src="https://avatars.githubusercontent.com/Sakshi-1224" width="80px;" alt="Sakshi's GitHub profile picture"/><br /> <sub><b>Sakshi Solanki</b></sub> </a><br /> 💻 Frontend, Firebase Auth, Razorpay Integration </td> <td align="center"> <a href="https://github.com/Mafia2404"> <img src="https://avatars.githubusercontent.com/Mafia2404" width="80px;" alt="Uddhav's GitHub profile picture"/><br /> <sub><b>Uddhav</b></sub> </a><br /> 🔧 Backend , AI Recommendations System </td> </tr> </table>
+---
 📜 License
 MIT © ShopAI 2025
