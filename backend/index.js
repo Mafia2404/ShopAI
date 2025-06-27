@@ -17,7 +17,7 @@ let app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
- origin:["https://shopai-frontend.onrender.com" , "https://shopai-admin.onrender.com"],
+ origin:["https://shopai-frontend.onrender.com" , "https://shopai-admin.onrender.com","https://shopai-rr1q.onrender.com"],
  credentials:true
 }))
 
