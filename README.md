@@ -1,4 +1,4 @@
-# 🛍️ ShopAI - AI-Powered E-Commerce Platform (MERN + AI + Payments)
+# 🛍️ ShopAI - AI-Powered E-Commerce Platform (MERN + AI + Voice + Payments)
 
 ![ShopAI Banner](https://github.com/Mafia2404/ShopAI/blob/main/frontend/logo.png)  
 *A modern e-commerce platform with AI-powered recommendations, secure payments, and admin dashboard.*
@@ -25,11 +25,15 @@
 **Frontend**  
 - React.js (Vite) 
 - TailwindCSS  
-- Firebase Authentication  
+- Firebase Authentication
+- Web Speech API
 
 **Backend**  
 - Node.js + Express  
-- MongoDB (Mongoose)  
+- MongoDB (Mongoose)
+- Cloudinary (Image Storage)
+- JWT + bcryptjs (Authentication)
+
 
 **Integrations**  
 - Razorpay Payment Gateway  
@@ -106,7 +110,7 @@ shopai-mern/
 ```
 ---
 🌟 Why This Project?<br>
-✔ Interview-Ready - Covers full-stack (MERN + AI + Payments)<br>
+✔ Interview-Ready - Covers full-stack (MERN + AI + Voice + Payments)<br>
 ✔ Major Project - Documentation-ready for college submissions<br>
 ✔ Portfolio Gold - Demonstrates real-world scalability<br>
 ---
